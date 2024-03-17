@@ -1,3 +1,4 @@
-This is my Zomato Landing Clone Page.
+This is my Zomato Landing Clone Page
 
-hi hello
+Done with first commit.
+Done with second commit.
